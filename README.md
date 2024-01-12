@@ -1,6 +1,8 @@
 ### GSM Module
 
 Tutorial - https://randomnerdtutorials.com/sim900-gsm-gprs-shield-arduino/
+https://lastminuteengineers.com/sim900-gsm-shield-arduino-tutorial/
+
 
 
 
