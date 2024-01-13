@@ -3,7 +3,8 @@
 Tutorial - https://randomnerdtutorials.com/sim900-gsm-gprs-shield-arduino/
 https://lastminuteengineers.com/sim900-gsm-shield-arduino-tutorial/
 
-
+There will be three input pins - 4, 5, 6 (4 - bottom most, 5 - mid, 6 - upper)
+And two output pins - 2,3 (2 - motor1, 3 - motor2)
 
 
 https://github.com/nthnn/SIM900
